@@ -12,7 +12,9 @@ Tools used:- Tensorflow, Keras, openCV
   ``` ~PC/users/drowsiness_detection>python detection.py ```     
 
 Open state:
-![Screenshot (169)](https://github.com/vishalnite/drowsiness_detection/assets/71754513/47ac427d-aded-48bc-9a24-8e420973ddcf)
+
+![Screenshot (168)](https://github.com/vishalnite/drowsiness_detection/assets/71754513/91813358-36ac-47a6-8b54-7113bd3652af)
 
 Closed state:
-![Screenshot (168)](https://github.com/vishalnite/drowsiness_detection/assets/71754513/91813358-36ac-47a6-8b54-7113bd3652af)
+
+![Screenshot (169)](https://github.com/vishalnite/drowsiness_detection/assets/71754513/47ac427d-aded-48bc-9a24-8e420973ddcf)
